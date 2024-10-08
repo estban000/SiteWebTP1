@@ -192,6 +192,8 @@ hr {
     height: auto;
 }
 img {
+    width: auto;
+    height: auto;
     vertical-align: middle;
 }
 a {
